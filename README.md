@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Marcel Aleksander Jastrzab 👋
 
-<!--
-**Marcel-Aleksander-Jastrzab/Marcel-Aleksander-Jastrzab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **Dual Student in Cyber Security / Information Security (B.Sc.)** targeting Fall 2027, based in Frankfurt, Germany. 
 
-Here are some ideas to get you started:
+Currently, I am gaining IT and operations experience as an **IT Service Point Intern at PricewaterhouseCoopers (PwC)** while deepening my practical skills in defensive security, network architecture, and system hardening.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛡️ What I Do
+- 🏢 **Enterprise IT Operations:** 1st/2nd level support, troubleshooting, Active Directory management, and endpoint maintenance at PwC.
+- 🔍 **Defensive Security & SIEM:** Designing and deploying a full-stack Wazuh SIEM (OpenSearch Indexer, Manager & Dashboard) on a Proxmox hypervisor to detect and analyze threats (e.g., brute-force attacks) in real time.
+- 🌐 **Network Security & Segmentation:** Hands-on experience with OPNsense firewalls (routing, NAT, packet filtering), high-availability DNS sinkholes (dual Pi-hole), and encrypted VPN tunnels (WireGuard).
+- 🐧 **Linux & Infrastructure:** Linux as daily driver (CachyOS/Arch, Debian, Ubuntu), managing multi-node homelab systems and containerized microservices (Docker/Portainer).
+- 📜 **Continuous Education:** Actively completing the Cisco Networking Academy *Junior Cybersecurity Analyst* career path.
+
+---
+
+### 🛠️ Tech Stack & Security Lab
+- **SIEM & Security Tools:** Wazuh SIEM, OPNsense, Wireshark, Cisco Packet Tracer, Filebeat, OpenSearch
+- **Systems & Virtualization:** Proxmox VE (KVM & LXC), Docker, Portainer, Windows Server 2022, Linux (Arch/Debian/Ubuntu)
+- **Networking & Protocols:** TCP/IP, IPv4/IPv6, DNS/DHCP, WireGuard, Nginx Reverse Proxy, VLANs, Routing
+- **Scripting & Web Basics:** Bash / Shell Scripting, Git, HTML/CSS/JS (Basics), SQL
+
+---
+
+### 📜 Verified Cisco NetAcad Credentials
+- 🛡️ **Introduction to Cybersecurity** (Certificate & Digital Badge)
+- 💻 **Computer Hardware Basics** (Certificate & Digital Badge)
+- 🐧 **Operating Systems Basics** (Certificate & Digital Badge)
+- 🌐 **Getting Started with Cisco Packet Tracer** (Certificate)
+- ⏳ *Currently pursuing:* Cisco Career Path **„Junior Cybersecurity Analyst“** (Networking Basics)
+
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** [https://www.linkedin.com/in/marcel-aleksander-jastrzab/](https://www.linkedin.com/in/marcel-aleksander-jastrzab/)]
