@@ -1,4 +1,4 @@
-# Hi, I'm Marcel Aleksander Jastrzab 👋
+# Hi, I'm Marcel Aleksander Jastrzab
 
 I am an aspiring **Dual Student in Cyber Security / Information Security (B.Sc.)** targeting Fall 2027, based in Frankfurt, Germany. 
 
@@ -6,12 +6,12 @@ Currently, I am gaining IT and operations experience as an **IT Service Point In
 
 ---
 
-### 🛡️ What I Do
+### What I Do
 - 🏢 **Enterprise IT Operations:** 1st/2nd level support, troubleshooting, Active Directory management, and endpoint maintenance at PwC.
-- 🔍 **Defensive Security & SIEM:** Designing and deploying a full-stack Wazuh SIEM (OpenSearch Indexer, Manager & Dashboard) on a Proxmox hypervisor to detect and analyze threats (e.g., brute-force attacks) in real time.
-- 🌐 **Network Security & Segmentation:** Hands-on experience with OPNsense firewalls (routing, NAT, packet filtering), high-availability DNS sinkholes (dual Pi-hole), and encrypted VPN tunnels (WireGuard).
+- **Defensive Security & SIEM:** Designing and deploying a full-stack Wazuh SIEM (OpenSearch Indexer, Manager & Dashboard) on a Proxmox hypervisor to detect and analyze threats (e.g., brute-force attacks) in real time.
+- **Network Security & Segmentation:** Hands-on experience with OPNsense firewalls (routing, NAT, packet filtering), high-availability DNS sinkholes (dual Pi-hole), and encrypted VPN tunnels (WireGuard).
 - 🐧 **Linux & Infrastructure:** Linux as daily driver (CachyOS/Arch, Debian, Ubuntu), managing multi-node homelab systems and containerized microservices (Docker/Portainer).
-- 📜 **Continuous Education:** Actively completing the Cisco Networking Academy *Junior Cybersecurity Analyst* career path.
+- **Continuous Education:** Actively completing the Cisco Networking Academy *Junior Cybersecurity Analyst* career path.
 
 ---
 
@@ -23,14 +23,14 @@ Currently, I am gaining IT and operations experience as an **IT Service Point In
 
 ---
 
-### 📜 Verified Cisco NetAcad Credentials
-- 🛡️ **Introduction to Cybersecurity** (Certificate & Digital Badge)
-- 💻 **Computer Hardware Basics** (Certificate & Digital Badge)
-- 🐧 **Operating Systems Basics** (Certificate & Digital Badge)
-- 🌐 **Getting Started with Cisco Packet Tracer** (Certificate)
-- ⏳ *Currently pursuing:* Cisco Career Path **„Junior Cybersecurity Analyst“** (Networking Basics)
+### Verified Cisco NetAcad Credentials
+- **Introduction to Cybersecurity** (Certificate & Digital Badge)
+- **Computer Hardware Basics** (Certificate & Digital Badge)
+- **Operating Systems Basics** (Certificate & Digital Badge)
+- **Getting Started with Cisco Packet Tracer** (Certificate)
+- *Currently pursuing:* Cisco Career Path **„Junior Cybersecurity Analyst“** (Networking Basics)
 
 ---
 
-### 📬 Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/marcel-aleksander-jastrzab/](https://www.linkedin.com/in/marcel-aleksander-jastrzab/)]
+
+- **LinkedIn:** [https://www.linkedin.com/in/marcel-aleksander-jastrzab/](https://www.linkedin.com/in/marcel-aleksander-jastrzab/)
