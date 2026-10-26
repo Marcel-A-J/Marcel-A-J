@@ -1,6 +1,6 @@
-# Hi, I'm Marcel Aleksander Jastrzab
+# Hi, I am Marcel Aleksander Jastrzab
 
-I am an aspiring **Dual Student in Cyber Security / Information Security (B.Sc.)** targeting Fall 2027, based in Frankfurt, Germany. 
+I am an aspiring **Dual Student in Cyber Security** based in Frankfurt, Germany. 
 
 Currently, I am gaining IT and operations experience as an **IT Service Point Intern at PricewaterhouseCoopers (PwC)** while deepening my practical skills in defensive security, network architecture, and system hardening.
 
@@ -8,9 +8,9 @@ Currently, I am gaining IT and operations experience as an **IT Service Point In
 
 ### What I Do
 - 🏢 **Enterprise IT Operations:** 1st/2nd level support, troubleshooting, Active Directory management, and endpoint maintenance at PwC.
-- **Defensive Security & SIEM:** Designing and deploying a full-stack Wazuh SIEM (OpenSearch Indexer, Manager & Dashboard) on a Proxmox hypervisor to detect and analyze threats (e.g., brute-force attacks) in real time.
+- **Defensive Security & SIEM:** Designing and deploying a full-stack Wazuh SIEM (OpenSearch Indexer, Manager & Dashboard) on a Proxmox hypervisor to detect and analyze threats in real time.
 - **Network Security & Segmentation:** Hands-on experience with OPNsense firewalls (routing, NAT, packet filtering), high-availability DNS sinkholes (dual Pi-hole), and encrypted VPN tunnels (WireGuard).
-- 🐧 **Linux & Infrastructure:** Linux as daily driver (CachyOS/Arch, Debian, Ubuntu), managing multi-node homelab systems and containerized microservices (Docker/Portainer).
+- 🐧 **Linux & Infrastructure:** Linux as daily driver (CachyOS/Arch, Debian, Ubuntu, Mint), managing multi-node homelab systems and containerized microservices (Docker/Portainer).
 - **Continuous Education:** Actively completing the Cisco Networking Academy *Junior Cybersecurity Analyst* career path.
 
 ---
