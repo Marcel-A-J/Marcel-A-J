@@ -1,4 +1,4 @@
-# Hi, I am Marcel Aleksander Jastrzab
+# Hi, I am Marcel
 
 I am an aspiring **Dual Student in Cyber Security** based in Frankfurt, Germany. 
 
